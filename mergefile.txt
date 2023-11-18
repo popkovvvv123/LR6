@@ -4,3 +4,4 @@
 важной
 информацией
 adding from test-branch
+adding from master-branch
